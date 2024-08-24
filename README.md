@@ -1,5 +1,7 @@
 # On Scroll Container Stack Animation Using GSAP
 
+Live Preview : https://sanuthb.github.io/GSAP_SCROLLANIMATION/
+
 # Initial Screen
 ![image info](imgs/img1.PNG)
 # When you scroll a bit
